@@ -134,9 +134,15 @@ npm run dev
 ```
 latency-visualizer/
 ├── app/
+    |- components/
+        |-- ThreeGlobe.tsx
 │   ├── layout.tsx          # Root layout with metadata
 │   ├── page.tsx            # Main application component (Client Component)
 │   └── globals.css         # Global styles with Tailwind directives
+    |__ utils/
+    |__ types/
+    |__ hooks/
+
 ├── public/                 # Static assets
 ├── node_modules/           # Dependencies
 ├── .next/                  # Next.js build output
@@ -422,8 +428,8 @@ This project is licensed under the MIT License - see the LICENSE file for detail
 
 **Soundaya Dash**
 - Assignment for: GoQuant Recruitment
-- Date: November 2024
-- Contact: your.email@example.com
+- Date: November 2025
+- Contact: dashsoundarya@gmail.com
 
 ## 🙏 Acknowledgments
 
