@@ -73,7 +73,7 @@ git --version
 
 ### Step 1: Clone the Repository
 ```bash
-git clone <your-repository-url>
+git clone git@github.com:soundarya-dash-673/latency-visualizer.git
 cd latency-visualizer
 ```
 
